@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterdpdate",
+        "uuid": 10188021,
+        "checksum": "yqzono"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
